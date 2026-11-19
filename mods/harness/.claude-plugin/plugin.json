@@ -1,0 +1,9 @@
+{
+  "name": "punchlist-harness",
+  "version": "0.1.0",
+  "description": "Optional function-hook module for the punchlist plugin: caps a spawned agent at the session tier, injects the standing worker rules, and marks an answer UNVERIFIED when it claims done with no test, sweep or look this turn. Needs Claude Code 2.1.287 or later.",
+  "author": {
+    "name": "Keegan Leach"
+  },
+  "license": "MIT"
+}

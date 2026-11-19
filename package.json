@@ -1,0 +1,10 @@
+{
+  "name": "punchlist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"hooks/**/*.test.mjs\" \"scripts/**/*.test.mjs\"",
+    "lint": "node scripts/skill-lint.mjs skills/code skills/design shared",
+    "check": "node scripts/check-claims.mjs README.md evidence/claims.json && node scripts/check-evidence.mjs evidence/generators.json && node scripts/leak-guard.mjs ."
+  }
+}

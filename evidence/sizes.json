@@ -1,0 +1,38 @@
+{
+  "method": "words x 1.33, rounded; the estimate scripts/skill-lint.mjs uses",
+  "skills": {
+    "code": {
+      "description_tokens": 82,
+      "skill_md_tokens": 988,
+      "references": 6,
+      "reference_tokens_min": 732,
+      "reference_tokens_max": 1834,
+      "reference_tokens_total": 7113
+    },
+    "design": {
+      "description_tokens": 80,
+      "skill_md_tokens": 942,
+      "references": 11,
+      "reference_tokens_min": 616,
+      "reference_tokens_max": 1588,
+      "reference_tokens_total": 10113
+    }
+  },
+  "shared": {
+    "files": 5,
+    "tokens_min": 511,
+    "tokens_max": 1478
+  },
+  "totals": {
+    "skill_description_tokens": 162,
+    "agent_description_tokens": 361,
+    "session_start_tokens": 136,
+    "always_on_tokens": 659,
+    "skill_md_tokens_max": 988,
+    "every_round_tokens": 511,
+    "on_demand_tokens_min": 616,
+    "on_demand_tokens_max": 1834,
+    "everything_tokens": 23819,
+    "agents": 5
+  }
+}

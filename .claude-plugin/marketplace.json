@@ -1,0 +1,19 @@
+{
+  "name": "punchlist",
+  "description": "Build discipline for coding agents, as one plugin plus an optional function-hook module.",
+  "owner": {
+    "name": "Keegan Leach"
+  },
+  "plugins": [
+    {
+      "name": "punchlist",
+      "source": "./",
+      "description": "Two skills, five workers, and the hooks that enforce them."
+    },
+    {
+      "name": "punchlist-harness",
+      "source": "./mods/harness",
+      "description": "Optional function-hook module. Needs Claude Code 2.1.287 or later."
+    }
+  ]
+}

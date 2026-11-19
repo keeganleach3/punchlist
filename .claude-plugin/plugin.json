@@ -1,0 +1,8 @@
+{
+  "name": "punchlist",
+  "version": "0.1.0",
+  "description": "Build discipline for coding agents: a contract before code, write-time security gates, model routing by silent-failure risk, runtime verification, and a ledger of what was missed and why.",
+  "author": { "name": "Keegan Leach" },
+  "license": "MIT",
+  "keywords": ["skills", "hooks", "subagents", "verification"]
+}

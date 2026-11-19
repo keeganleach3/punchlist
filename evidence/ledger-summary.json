@@ -1,0 +1,38 @@
+{
+  "files": 17,
+  "rows": 212,
+  "rows_unparsable": 0,
+  "rows_by_model": {
+    "(none)": 38,
+    "fable": 13,
+    "inherit": 2,
+    "inherited": 19,
+    "inline-architect": 4,
+    "opus": 85,
+    "sonnet": 51
+  },
+  "opus_rows": {
+    "with_reason": 11,
+    "without_reason": 74,
+    "by_month": {
+      "2026-08": {
+        "with_reason": 0,
+        "without_reason": 5
+      },
+      "2026-09": {
+        "with_reason": 11,
+        "without_reason": 67
+      },
+      "2026-11": {
+        "with_reason": 0,
+        "without_reason": 2
+      }
+    }
+  },
+  "rows_missing_actualTokens": 111,
+  "actualTokens": {
+    "n": 101,
+    "p50": 224783,
+    "p90": 345910
+  }
+}

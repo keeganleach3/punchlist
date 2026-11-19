@@ -1,0 +1,44 @@
+{
+  "skills": {
+    "count": "skills/*/SKILL.md"
+  },
+  "agents": {
+    "count": "agents/*.md"
+  },
+  "always-on": {
+    "file": "evidence/sizes.json",
+    "path": "totals.always_on_tokens"
+  },
+  "skill-max": {
+    "file": "evidence/sizes.json",
+    "path": "totals.skill_md_tokens_max"
+  },
+  "every-round": {
+    "file": "evidence/sizes.json",
+    "path": "totals.every_round_tokens"
+  },
+  "on-demand-min": {
+    "file": "evidence/sizes.json",
+    "path": "totals.on_demand_tokens_min"
+  },
+  "on-demand-max": {
+    "file": "evidence/sizes.json",
+    "path": "totals.on_demand_tokens_max"
+  },
+  "everything": {
+    "file": "evidence/sizes.json",
+    "path": "totals.everything_tokens"
+  },
+  "ledger-rows": {
+    "file": "evidence/ledger-summary.json",
+    "path": "rows"
+  },
+  "gate-blocked": {
+    "file": "evidence/gate.json",
+    "path": "blocked"
+  },
+  "gate-override": {
+    "file": "evidence/gate.json",
+    "path": "override"
+  }
+}

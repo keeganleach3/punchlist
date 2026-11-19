@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="punchlist: build discipline for coding agents">
+  <rect width="1200" height="300" fill="#0e1116"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#8a94a6" font-size="18">
+    <text x="64" y="72">[x] contract approved</text>
+    <text x="64" y="104">[x] write blocked: hardcoded key</text>
+    <text x="64" y="136">[x] dispatch routed by risk</text>
+    <text x="64" y="168">[ ] architect verified</text>
+  </g>
+  <rect x="64" y="153" width="250" height="22" fill="none" stroke="#5eead4" stroke-width="1.5"/>
+  <text x="64" y="244" font-family="ui-sans-serif, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#e8ecf3" letter-spacing="-2">punchlist</text>
+  <text x="1136" y="244" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#5eead4">nothing is done until the last box is checked</text>
+</svg>
